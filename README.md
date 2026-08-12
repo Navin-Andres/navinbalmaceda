@@ -1,80 +1,125 @@
-# 👋 Hola, soy Navin Balmaceda
+# 👋 Hola, soy Navin Andrés
 
-## 💻 Full Stack & Mobile Developer
+### 💻 Full Stack Developer | React | Node.js | PostgreSQL | Flutter | Firebase
 
-🎓 Estudiante de **Ingeniería de Sistemas**
-🚀 Desarrollo de aplicaciones web y móviles
-🗄️ Backend, APIs REST y bases de datos
-☁️ Deployment y servicios cloud
-📱 Desarrollo multiplataforma con Flutter
+🎓 Estudiante de **Ingeniería de Sistemas** y Tecnólogo en **Mantenimiento de Equipos de Cómputo**.
 
-Me especializo en transformar requerimientos de negocio en **soluciones web y móviles funcionales, escalables y listas para producción**.
+Soy **Full Stack Developer** enfocado en el desarrollo de aplicaciones web y móviles, con experiencia trabajando en frontend, backend, bases de datos, APIs REST, autenticación y despliegue de aplicaciones.
+
+Me gusta construir soluciones completas, desde el diseño de la interfaz y la lógica de negocio hasta la implementación de bases de datos y servicios backend.
 
 ---
 
-## 👨‍💻 Sobre mí
+## 🚀 Sobre mí
 
-Soy **Full Stack & Mobile Developer** con experiencia en el desarrollo de aplicaciones web y móviles, trabajando en diferentes etapas del ciclo de vida del software: desde el análisis de requerimientos y diseño de bases de datos hasta el desarrollo, despliegue y mantenimiento.
-
-Mi stack principal está basado en **React, Next.js, Node.js, Express, PostgreSQL y Flutter**, complementado con Firebase, REST APIs, autenticación y servicios cloud.
-
-También cuento con experiencia trabajando de manera **remota y freelance**, desarrollando soluciones personalizadas para diferentes necesidades.
-
-Actualmente continúo fortaleciendo mis conocimientos en desarrollo de software, arquitectura, bases de datos, cloud y buenas prácticas de desarrollo.
+* 💻 Desarrollo aplicaciones **Full Stack**
+* ⚛️ Desarrollo frontend con **React, Vite, HTML, CSS y JavaScript**
+* 🟢 Desarrollo backend con **Node.js y Express**
+* 🐍 Desarrollo de APIs con **Python y Flask**
+* 🗄️ Diseño y gestión de bases de datos **PostgreSQL, MySQL y SQLite**
+* 📱 Desarrollo de aplicaciones móviles con **Flutter y Dart**
+* 🔥 Integración con **Firebase y Firestore**
+* 🔐 Implementación de autenticación con **JWT y Google OAuth**
+* 📡 Desarrollo e integración de **APIs REST**
+* 📁 Gestión de archivos mediante servicios backend
+* 📧 Integración de servicios de correo electrónico
+* 🚀 Despliegue de aplicaciones y servicios en plataformas cloud
+* 🔧 Control de versiones con **Git y GitHub**
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 🌐 Frontend
+## 🎨 Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-### 📱 Mobile
+* React
+* Vite
+* JavaScript
+* HTML5
+* CSS3
+* Bootstrap
+* Responsive Design
+* Consumo de APIs REST
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+---
 
-### ⚙️ Backend
+## ⚙️ Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
 
-### 🗄️ Databases
+* Node.js
+* Express
+* Python
+* Flask
+* APIs REST
+* JWT
+* Google OAuth
+* Nodemailer
+* Multer
+* Middleware
+* CRUD
+* Authentication & Authorization
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+---
+
+## 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 
-### 🔐 Authentication & APIs
+* PostgreSQL
+* MySQL
+* SQLite
+* Firestore
+* Database modeling
+* Relationships
+* Queries SQL
+* CRUD operations
 
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge\&logo=auth0\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+---
 
-### ☁️ Deployment & Tools
+## 📱 Mobile Development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+
+* Flutter
+* Dart
+* Firebase
+* Firestore
+* Firebase Storage
+* Authentication
+* REST APIs
+* Google Maps API
+
+---
+
+## ☁️ Deployment & Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge\&logo=railway\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 
-### 📊 Data & Analytics
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+* Git
+* GitHub
+* Railway
+* Firebase
+* Vercel
+* Netlify
+* VS Code
+* Android Studio
+* Figma
 
 ---
 
@@ -82,163 +127,264 @@ Actualmente continúo fortaleciendo mis conocimientos en desarrollo de software,
 
 ## ⚖️ Consultorio Jurídico — Full Stack
 
-Sistema web para la gestión de matrícula y turnos del Consultorio Jurídico.
+Sistema web desarrollado para gestionar el proceso de inscripción y administración de estudiantes del **Consultorio Jurídico y Centro de Conciliación**.
 
-### Características
+### 🔹 Funcionalidades
 
-* Registro y gestión de estudiantes
-* Gestión de turnos y cupos
-* Gestión de documentos
-* Autenticación mediante JWT
-* Google OAuth 2.0
-* Notificaciones por correo
-* Panel administrativo
-* Base de datos relacional
-* Despliegue en Railway
+* 👨‍🎓 Registro de estudiantes
+* 📅 Gestión de cupos y horarios
+* 📝 Inscripción a jornadas
+* 📄 Carga de documentos
+* 🔐 Autenticación de usuarios
+* 🔑 JWT
+* 🔵 Google OAuth
+* 👨‍💼 Panel administrativo
+* 📧 Notificaciones por correo
+* 🗄️ Gestión de PostgreSQL
+* 📡 API REST
+* 🚀 Despliegue del backend
 
-### Tecnologías
+### 🧰 Stack
 
-`React` `Vite` `Node.js` `Express` `PostgreSQL`
-`JWT` `Google OAuth 2.0` `Multer` `Nodemailer` `Railway`
+`React` `Vite` `Node.js` `Express` `PostgreSQL` `JWT` `Google OAuth` `Multer` `Nodemailer` `Railway`
 
-🔗 **[Ver repositorio](#)**
+### 🏗️ Arquitectura
+
+```text
+┌──────────────────────┐
+│      React + Vite    │
+│       Frontend       │
+└──────────┬───────────┘
+           │
+           │ REST API
+           ▼
+┌──────────────────────┐
+│   Node.js + Express  │
+│       Backend        │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│      PostgreSQL      │
+│       Database       │
+└──────────────────────┘
+```
 
 ---
 
-## ⚽ La Jugada — Reservation Platform
+# ⚽ La Jugada — Sistema de reservas
 
-Aplicación orientada a la gestión y reserva de canchas de fútbol.
+Aplicación para la gestión y reserva de canchas deportivas.
 
-### Características
+### 🔹 Funcionalidades
 
-* Reserva de canchas
-* Gestión de horarios
-* Reservas mediante enlace o código QR
-* Gestión del estado de las reservas
-* Confirmación de pagos mediante WhatsApp
-* Bloqueo temporal de reservas pendientes
+* 📅 Reservas de canchas
+* 🔗 Reserva mediante enlace/QR
+* 💬 Confirmación de pago mediante WhatsApp
+* ⏱️ Bloqueo temporal de reservas
+* 📋 Gestión de reservas
+* ☁️ Persistencia de información
 
-### Tecnologías
+### 🧰 Stack
 
 `Flutter` `Firebase` `Firestore` `Firebase Storage`
 
-🔗 **[Ver repositorio](#)**
+---
+
+# ♻️ Ecovalle — Gestión de residuos
+
+Aplicación desarrollada para gestionar información relacionada con la recolección y manejo de residuos.
+
+### 🔹 Funcionalidades
+
+* 📍 Ubicación mediante mapas
+* 📷 Registro fotográfico
+* 🗺️ Información geográfica
+* 📋 Gestión de registros
+* ☁️ Almacenamiento de información
+
+### 🧰 Stack
+
+`Flutter` `Firebase` `Firestore` `Google Maps API`
 
 ---
 
-## ♻️ Ecovalle — Waste Management
+# 🎰 Baloto — Aplicación de análisis de datos
 
-Aplicación orientada a la gestión de residuos, incorporando registro de información, fotografías y ubicación geográfica.
+Aplicación desarrollada para procesar y analizar información relacionada con resultados de lotería.
 
-### Tecnologías
+### 🧰 Stack
 
-`Flutter` `Firebase` `Google Maps API`
-
-🔗 **[Ver repositorio](#)**
+`Flutter` `Python` `Flask` `Pandas` `NumPy`
 
 ---
 
-## 🎯 Baloto Analytics
+# 📊 Power BI — Dashboard de inventario
 
-Proyecto desarrollado para trabajar con datos utilizando Python y realizar procesos de análisis y procesamiento de información.
+Dashboard interactivo para analizar información de inventario y generar indicadores para facilitar la interpretación de datos.
 
-### Tecnologías
-
-`Python` `Pandas` `NumPy` `Flask`
-
-🔗 **[Ver repositorio](#)**
-
----
-
-## 📊 Power BI — Inventory Dashboard
-
-Dashboard desarrollado para el análisis y visualización de información de inventario.
-
-### Tecnologías
+### 🧰 Tecnologías
 
 `Power BI` `Power Query` `DAX` `Excel` `SQL`
 
-🔗 **[Ver repositorio](#)**
+---
+
+# 🧠 Habilidades técnicas
+
+### Frontend
+
+```text
+React
+Vite
+JavaScript
+HTML
+CSS
+Bootstrap
+Flutter
+Dart
+```
+
+### Backend
+
+```text
+Node.js
+Express
+Python
+Flask
+REST API
+JWT
+OAuth
+```
+
+### Database
+
+```text
+PostgreSQL
+MySQL
+SQLite
+Firestore
+SQL
+```
+
+### DevOps / Deployment
+
+```text
+Git
+GitHub
+Railway
+Firebase
+Vercel
+Netlify
+```
+
+---
+
+# 🎯 Actualmente enfocado en
+
+```text
+Full Stack Development
+        ↓
+Frontend
+React + JavaScript
+        ↓
+Backend
+Node.js + Express
+        ↓
+Database
+PostgreSQL + SQL
+        ↓
+Authentication
+JWT + OAuth
+        ↓
+Deployment
+Railway + Vercel + Firebase
+```
+
+También continúo fortaleciendo mis conocimientos en:
+
+* ☁️ Cloud Computing
+* 🐳 Docker
+* 🔐 Seguridad de APIs
+* 🧪 Testing
+* 🏗️ Arquitectura de software
+* 📱 Flutter
+* 📊 SQL y análisis de datos
+
+---
+
+# 🎓 Formación
+
+### 🎓 Ingeniería de Sistemas
+
+**Fundación Universitaria del Área Andina**
+
+Actualmente cursando.
+
+### 🎓 Tecnólogo en Mantenimiento de Equipos de Cómputo
+
+**SENA**
 
 ---
 
 # 💼 Experiencia
 
-### 👨‍💻 Programador Full Stack — Areandina
+### 💻 Desarrollador Independiente
 
-**Marzo 2026 – Julio 2026**
+Desarrollo de aplicaciones web y móviles utilizando tecnologías como:
 
-Desarrollo end-to-end del sistema de matrícula y gestión de turnos del Consultorio Jurídico utilizando React/Vite, Node.js/Express y PostgreSQL.
+`Flutter` `Firebase` `Python` `Flask` `Node.js` `PostgreSQL`
 
-Implementación de autenticación JWT y Google OAuth 2.0, gestión de documentos, notificaciones mediante Nodemailer y despliegue mediante Railway.
+### 🖥️ Técnico de Soporte — Air Services ING SAS
 
----
+Soporte técnico, mantenimiento de equipos y atención de requerimientos relacionados con sistemas informáticos.
 
-### 💻 Software Developer & IT Support — Freelance
+### 🖥️ Auxiliar de Sistemas — Clínica Médicos Alta Complejidad
 
-**Agosto 2024 – Junio 2026**
-
-Desarrollo de aplicaciones web y móviles personalizadas utilizando React, Flutter, Firebase y REST APIs.
-
-Gestión integral de proyectos remotos, desde el levantamiento de requerimientos hasta la implementación, entrega y mantenimiento.
+Soporte a usuarios, mantenimiento de equipos y asistencia en procesos tecnológicos.
 
 ---
 
-# 🎓 Educación
+# 📈 GitHub Stats
 
-🎓 **Ingeniería de Sistemas**
-Fundación Universitaria del Área Andina
-2023 – 2026
-
-🎓 **Tecnólogo en Mantenimiento de Equipos de Cómputo, Diseño e Instalación de Cableado Estructurado**
-SENA
-2017 – 2020
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Navin-Andres&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navin-Andres&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
 ---
 
-# 📚 Actualmente estoy fortaleciendo
-
-* 🔹 Arquitectura de aplicaciones Full Stack
-* 🔹 React y Next.js
-* 🔹 Node.js y Express
-* 🔹 PostgreSQL y diseño de bases de datos
-* 🔹 Flutter y desarrollo multiplataforma
-* 🔹 APIs REST
-* 🔹 Autenticación y seguridad
-* 🔹 Cloud deployment
-* 🔹 CI/CD
-* 🔹 Análisis de datos con SQL, Python y Power BI
-
----
-
-# 🎯 Objetivo profesional
+# 🌱 Actualmente buscando oportunidades
 
 Estoy interesado en oportunidades como:
 
-**💻 Full Stack Developer Junior**
-**📱 Flutter Developer Junior**
-**🌐 Frontend / Backend Developer Junior**
-**📊 Data Analyst Junior**
+* 💻 **Full Stack Developer Junior**
+* ⚛️ **Frontend Developer Junior**
+* 🟢 **Backend Developer Junior**
+* 📱 **Flutter Developer Junior**
+* 🗄️ **Junior Developer con SQL/PostgreSQL**
 
-Busco formar parte de equipos donde pueda aportar mis conocimientos en desarrollo de software, bases de datos y tecnologías cloud, mientras continúo creciendo profesionalmente.
+Estoy abierto a oportunidades **presenciales, híbridas y remotas**.
 
 ---
 
 # 📫 Contacto
 
-📧 **Email:** [navinbalmaceda83@gmail.com](mailto:navinbalmaceda83@gmail.com)
+📧 **Email:** navinbalmaceda83@gmail.com
 
-💼 **LinkedIn:** [linkedin.com/in/navin-balmaceda](https://www.linkedin.com/in/navin-balmaceda)
+💼 **LinkedIn:** www.linkedin.com/in/navin-balmaceda 
 
-🌐 **Portfolio:** [portafolio-navin.vercel.app](https://portafolio-navin.vercel.app/)
+🌐 **Portfolio:** https://portafolio-navin.vercel.app/
+
+🐙 **GitHub:** [github.com/Navin-Andres](https://github.com/Navin-Andres)
 
 ---
 
-## 🤝 Let's build something together
+## 🤝 ¿Trabajamos juntos?
 
-Gracias por visitar mi perfil.
+Si estás buscando un desarrollador junior para construir, mejorar o mantener aplicaciones web, móviles o APIs, puedes contactarme.
 
-Si estás interesado en colaborar, desarrollar un proyecto o conocer más sobre mi trabajo, **no dudes en contactarme.**
+⭐ Gracias por visitar mi perfil.
+
 
 
 
