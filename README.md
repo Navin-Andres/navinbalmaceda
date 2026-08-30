@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C2BD9&height=220&section=header&text=NAVIN%20BALMACEDA&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20Full%20Stack%20%26%20Mobile&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=722F99&height=260&section=header&text=NAVIN%20ANDRES%20BALMACEDA%20MONZON&fontSize=38&fontColor=FFFFFF&fontAlign=50&fontAlignY=50" width="100%"/>
 
 </div>
 
 ## 🚀 Acerca de mí
 
-Soy **desarrollador de software** enfocado en la creación de **aplicaciones web y móviles**. Me interesa construir soluciones funcionales, aprender nuevas tecnologías y seguir creciendo en el desarrollo de software.
+Me gusta **aprender, asumir nuevos retos y crear aplicaciones web y móviles**. Disfruto trabajar en equipo, compartir ideas y conversar sobre código, tecnologías y herramientas de desarrollo.
+
+Actualmente estoy **fortaleciendo mis conocimientos mientras continúo con mi Ingeniería de Sistemas**, preparándome para seguir creciendo profesionalmente.
+
+📧 **Correo:** [navinbalmaceda83@gmail.com](mailto:navinbalmaceda83@gmail.com)
 
 ## 🛠️ Tecnologías
 
